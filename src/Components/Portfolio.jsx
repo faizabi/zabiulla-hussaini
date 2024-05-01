@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pica.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Founder and Lead @Microsoft Learn Students' Hub LIET 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly place to help College Students get started in the Techncical World.",
+    url: "https://instagram.com/mlsh_liet",
   },
   {
-    title: "Web Development for Beginners",
+    title: "WEF Global Shaper @Global Shapers Community Hyderabad",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A proud member of Global Shapers Community Hyderabad, an initiative of the World Economic Forum, that aims to solve local problems with global impact.",
+    url: "https://www.globalshapers.org/hubs/hyderabad-hub/",
   },
   {
-    title: "My Resume Site",
+    title: "Designing Head @ArtigenZ Association LIET",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Leading the Design and Multimedia Team of ArtigenZ Association, a student run club under the aegis of The CSE-AI&ML Department of the LIET Institute.",
+    url: "https://www.lords.ac.in/cse-aiml/student-association-artigenz/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Junior Year @LIET as a CSE Student with specialization in AI & ML",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A Junior Year Student carving his way through the world of Computer Science with a specialization in Artificial Intelligence and Machine Learning.",
+    url: "https://www.lords.ac.in/cse-aiml/",
   },
 ];
 
