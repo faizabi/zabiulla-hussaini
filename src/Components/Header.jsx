@@ -14,16 +14,17 @@ const Header = () => {
         display: "flex",
         justifyContent: "center",
         gap: "2rem",
-        background: "rgba(255,255,255,0.75)",
+        background: "turquoise",
         padding: "1rem",
         top: 0,
         width: "100%",
         zIndex: 10,
+        opacity: 0.9,
       }}
     >
       <a href="#home">Home</a>
       <a href="#about">About</a>
-      <a href="#portfolio">I am...</a>
+      <a href="#portfolio">Roles</a>
       <a href="#footer">Contact</a>
     </div>
   );

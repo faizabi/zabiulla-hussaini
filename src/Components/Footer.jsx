@@ -24,7 +24,7 @@ import mediumIcon from "../images/socials/medium.svg";
  */
 
 const Footer = (props) => {
-  const { devDotTo, email, gitHub, instagram, linkedIn, medium, name, primaryColor } = props;
+  const { devDotTo, email, gitHub, instagram, linkedIn, medium, name } = props;
 
   return (
     <div
@@ -35,7 +35,7 @@ const Footer = (props) => {
         alignItems: "center",
         gap: "2.5rem",
         padding: "5rem 0 3rem",
-        backgroundColor: primaryColor,
+        backgroundColor: "turquoise",
         width: "100",
       }}
     >
@@ -85,7 +85,7 @@ const Footer = (props) => {
           </a>
         )}
       </div>
-      <p className="small" style={{ marginTop: 0, color: "white" }}>
+      <p className="small" style={{ marginTop: 0, color: "black" }}>
         Created by {name}
       </p>
     </div>
